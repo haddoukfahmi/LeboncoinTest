@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="auto_subtitle_max_size">18</dimen>
+    <dimen name="auto_subtitle_min_size">14</dimen>
+
+    <dimen name="auto_title_max_size">22sp</dimen>
+    <dimen name="auto_title_min_size">18sp</dimen>
+
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LeboncoinTest</string>
+    <string name="error_offline_text">Your network is unavailable. Check your data or wifi connection.</string>
+    <string name="no_connection_title">Offline</string>
+    <string name="settings_button_text">Settings</string>
+    <string name="cancel_button_text">Cancel</string>
+</resources>
